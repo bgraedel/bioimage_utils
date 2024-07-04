@@ -1,0 +1,21 @@
+{
+  "template": "https://github.com/tlambert03/pyrepo-cookiecutter",
+  "commit": "a464b9946d054b0769a71daa07a3c1ad9c50ea3e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Benjamin Graedel, Lucien Hinderling",
+      "email": "benjamin.graedel@unibe.ch, lucien.hinderling@unibe.ch",
+      "github_username": "bgraedel",
+      "project_name": "bioimage_utils",
+      "project_slug": "bioimage_utils",
+      "project_short_description": "A collection of utils to process images with a focus on timeseries analysis",
+      "pypi_username": "benig",
+      "_copy_without_render": [
+        ".github/workflows/*"
+      ],
+      "_template": "https://github.com/tlambert03/pyrepo-cookiecutter"
+    }
+  },
+  "directory": null
+}
