@@ -11,9 +11,9 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "BSD 3-Clause License" }
 authors = [
-    { email = "benjamin.graedel@unibe.ch, ", name = "Benjamin Graedel" },
-    { email = "lucien.hinderling@unibe.ch, ", name = "Lucien Hinderling" },
-    { email = "alex.landolt@unibe.ch, ", name = "Alex Landolt" },
+    { email = "benjamin.graedel@unibe.ch", name = "Benjamin Graedel" },
+    { email = "lucien.hinderling@unibe.ch", name = "Lucien Hinderling" },
+    { email = "alex.landolt@unibe.ch", name = "Alex Landolt" },
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -37,7 +37,6 @@ dev = [
     "black",
     "ipython",
     "mypy",
-    "pdbpp",
     "pre-commit",
     "pytest-cov",
     "pytest",

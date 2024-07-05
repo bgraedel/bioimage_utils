@@ -1,4 +1,5 @@
-"""A collection of utils to process images with a focus on timeseries analysis"""
+"""A collection of utils to process images with a focus on timeseries analysis."""
+
 from importlib.metadata import PackageNotFoundError, version
 
 try:
